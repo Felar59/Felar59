@@ -2,7 +2,7 @@
 
 **`Profesional code cooker 🍤`**
 
-I'm a french developer searching for 💸money💸 and shrimp.
+I'm a french developer searching for project ♻️
 
 ---
 

@@ -1,6 +1,6 @@
 # 🦐 Felar
 
-**`Profesional code cooker 🍤`**
+**`Software Developer 🍤`**
 
 I'm a french developer searching for project ♻️
 

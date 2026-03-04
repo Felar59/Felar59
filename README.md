@@ -2,7 +2,7 @@
 
 **`Software Developer 🍤`**
 
-I'm a french developer searching for project ♻️
+French dev ♻️ Epitech 💠
 
 ---
 
@@ -29,4 +29,4 @@ I'm a french developer searching for project ♻️
 
 ### Portfolio 📰
 
-https://J'ai-toujours-pas-de-portfolio.com
+felixlecuyer.vercel.app

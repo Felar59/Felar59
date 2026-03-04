@@ -29,4 +29,4 @@ French dev ♻️ Epitech 💠
 
 ### Portfolio 📰
 
-![My Portfolio](https://felixlecuyer.vercel.app)
+https://felixlecuyer.vercel.app

@@ -21,12 +21,6 @@ French dev ♻️ Epitech 💠
 
 #
 
-### Stats 📊
-
-![Felar GitHub stats](https://github-readme-stats.vercel.app/api?username=Felar59&show_icons=true&theme=gruvbox)
-
-#
-
 ### Portfolio 📰
 
 https://felixlecuyer.vercel.app

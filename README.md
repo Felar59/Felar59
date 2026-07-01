@@ -1,8 +1,6 @@
 # 🦐 Felar
 
-**`Software Developer 🍤`**
-
-French dev ♻️ Epitech 💠
+**`Software Developer`**
 
 ---
 
